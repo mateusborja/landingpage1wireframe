@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "landingpage1wireframe"
+    }
+  },
+  "defaultProject": "landingpage1wireframe",
+  "cli": {
+    "analytics": "51018d25-c76d-47b0-b814-b92dc4a68ed9"
+  }
 }
