@@ -169,9 +169,11 @@ label #cancel {
 
 }
 
+// color accent #adc6dc
+// gradient-color #8aa2b8
 .sidebar a.active,.sidebar > a:hover:nth-child(odd) {
-    --accent-color: #adc6dc;
-    --gradient-color: #8aa2b8;
+    color: var(--accent-color);
+    color: var(--gradient-color);
 }
 
 .info-nav {
